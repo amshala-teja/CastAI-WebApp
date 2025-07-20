@@ -1,0 +1,19 @@
+# Ignore Python virtual environments
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VSCode / PyCharm settings
+.idea/
+.vscode/
+
+# Database
+*.sqlite3
+
+# Logs
+*.log
